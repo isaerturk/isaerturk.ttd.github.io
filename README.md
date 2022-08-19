@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw/hub/responsive-time-tracking-dashboard-vFJb_9K595)
 - Live Site URL: [Live Site URL](https://isaerturk-ttd-github-io.pages.dev/)
 
 ## My process
