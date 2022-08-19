@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://isaerturk-ttd-github-io.pages.dev/)
+- Live Site URL: [Live Site URL](https://isaerturk-ttd-github-io.pages.dev/)
 
 ## My process
 
